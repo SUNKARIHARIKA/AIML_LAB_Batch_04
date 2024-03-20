@@ -9,5 +9,6 @@ Assignment_04(https://github.com/SUNKARIHARIKA/AIML_LAB_Batch_04/blob/main/Assig
 
 Assignment_05(https://github.com/SUNKARIHARIKA/AIML_LAB_Batch_04/blob/main/Assignment_05.ipynb)
 
-Assignment_06
+Assignment_06(https://github.com/SUNKARIHARIKA/AIML_LAB_Batch_04/blob/main/Assignment_06.ipynb)
+
 Assignment_07
