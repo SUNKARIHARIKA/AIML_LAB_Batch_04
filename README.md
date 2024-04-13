@@ -17,4 +17,4 @@ Assignment_08(https://github.com/SUNKARIHARIKA/AIML_LAB_Batch_04/blob/main/Assig
 
 Assignment_09(https://github.com/SUNKARIHARIKA/AIML_LAB_Batch_04/blob/main/Assignment_09.ipynb)
 
-Assignment_10()
+Assignment_10(https://github.com/SUNKARIHARIKA/AIML_LAB_Batch_04/blob/main/Assignment_10.ipynb)
